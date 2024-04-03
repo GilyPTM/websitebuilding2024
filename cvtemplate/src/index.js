@@ -14,8 +14,7 @@ import "../node_modules/typed.js/dist/typed.umd.js";
 
 // import GLightbox from 'glightbox';
 import "../node_modules/glightbox/dist/js/glightbox.min.js";
-
+import "./js/translate.js";
 import "./js/main.js";
 import "./js/skill.js";
 import "./js/githubapi.js";
-import "./js/translate.js";
