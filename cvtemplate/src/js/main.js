@@ -189,7 +189,7 @@ import GLightbox from "glightbox";
         backDelay: 2000,
       });
     }
-  }, 2000);
+  }, 5000);
   /**
    * Initiate portfolio lightbox
    */

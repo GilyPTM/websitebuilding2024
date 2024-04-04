@@ -9,5 +9,11 @@
   "footer_text": "© 2023 Your Company. All rights reserved.",
   "hello": "Hello, world!",
   "myweb": "I am Gily",
-  "typed": "Teacher, Mentor, Developer, Freelancer, Designer"
+  "nume": "Name: ",
+  "profil": "Profile: ",
+  "dezvoltator": "Junior Web Developer",
+  "telefon": "Phone: ",
+  "despreMine": "About me",
+  "abilitati": "My Skills",
+  "typed": "Student, Developer, Freelancer, Designer"
 }
